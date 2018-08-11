@@ -69,6 +69,7 @@ main {
 .article {
   background: rgb(9, 35, 53);
   color: white;
+  opacity: .95;
   margin: 1vh;
   height: 15vh;
   border-radius: 25px;
