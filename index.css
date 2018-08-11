@@ -79,6 +79,7 @@ main {
 
 .aside {
   height: 50vh;
+  word-wrap: break-word;
 }
 
 .howToPlayText {
