@@ -47,6 +47,8 @@ main {
   height: 20vh;
   width: 15vw;
   border-radius: 25px;
+  overflow-x: hidden;
+
 }
 
 .flex-container {
