@@ -1,0 +1,90 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("./images/thumb-1920-694030.jpg");
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+h1, h3 {
+  text-align: center;
+}
+
+header {
+  background-color: rgb(9, 35, 53);
+  opacity: .95;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  flex-shrink: 2;
+  height: 25vh;
+  width: 100vw;
+  border-radius: 25px;
+}
+
+.logo {
+  height: 25vh;
+  align-content: center;
+}
+
+main {
+  display: flex;
+  flex-shrink: 2;
+  width: 100vw;
+  height: 80vh;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 5fr 2fr;
+  align-items: center;
+}
+
+.grid-item {
+  border-radius: 25px;
+  background: rgb(9, 35, 53);
+  opacity: .95;
+  color: white;
+  margin: 1vh;
+}
+
+.image-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+}
+
+.nav {
+  display: flex;
+  height: 20vh;
+  width: 15vw;
+  align-items: center;
+  justify-content: center;
+  font-family: verdana;
+  font-size: 5vh;
+}
+
+.article {
+  height: 75vh;
+}
+
+.aboutMovie {
+  padding: 50px;
+}
+
+.aside {
+  height: 50vh;
+}
+
+.howToPlayText {
+  padding: 25px;
+}
+
+
+
+
