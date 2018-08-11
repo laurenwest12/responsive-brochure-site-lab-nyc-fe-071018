@@ -78,8 +78,8 @@ main {
   overflow-x: hidden;
 }
 
-.grid-item {
- 
+.grid-item article{
+ padding: 5px;
 }
 
 
