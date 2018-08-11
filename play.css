@@ -78,6 +78,9 @@ main {
   overflow-x: hidden;
 }
 
+.grid-text {
+  padding: 5px;
+}
 
 
 
