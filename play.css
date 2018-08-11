@@ -3,8 +3,6 @@ body {
   margin: 0;
   padding: 0;
   background-image: url("./images/thumb-1920-694030.jpg");
-  height: 100vh;
-  width: 100vw;
 }
 
 a {
@@ -78,6 +76,7 @@ main {
   height: 15vh;
   border-radius: 25px;
   overflow-x: hidden;
+  padding: 5px;
 }
 
 
