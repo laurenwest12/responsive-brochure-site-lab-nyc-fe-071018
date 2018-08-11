@@ -67,6 +67,8 @@ main {
   justify-content: center;
   font-family: verdana;
   font-size: 5vh;
+  overflow-x: hidden;
+
 }
 
 .article {
