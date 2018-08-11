@@ -78,5 +78,9 @@ main {
   overflow-x: hidden;
 }
 
+.item article {
+  padding: 5px;
+}
+
 
 
