@@ -78,8 +78,8 @@ main {
   overflow-x: hidden;
 }
 
-.grid-text {
-  padding: 25px;
+.grid-item {
+  align-text: center;
 }
 
 
