@@ -48,6 +48,8 @@ main {
   width: 15vw;
   border-radius: 25px;
   overflow-x: hidden;
+  opacity: .95;
+
 }
 
 .flex-container {
