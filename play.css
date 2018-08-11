@@ -79,7 +79,6 @@ main {
 }
 
 .grid-item {
-  display: table-cell;
   text-align: center;
   vertical-align: middle;
 }
